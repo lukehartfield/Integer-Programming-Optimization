@@ -1,8 +1,3 @@
----
-
-*Optimization I – MSBA | McCombs School of Business, UT Austin*
-
----
 
 ### 📍 Project Overview
 
